@@ -7,3 +7,4 @@ P1DataA.csv is one of the input files for the project.
 P1DataB.csv is the other input file for the project.
 outfile.csv is used to compare your results from writing a file.
 ExampleFinalOutput.png shows what to expect when you run your project1-206.py when it is complete and correct
+SI 206 Project 1 - Clean Data.docx - a word file with a more detailed description of what you need to do for project 1
