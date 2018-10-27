@@ -129,7 +129,6 @@ def main():
 
 	
 	print("\nSuccessful sort and print to file:")
-	print(filecmp.cmp('outfile.csv', 'results.csv'))
 	mySortPrint(data,'Last','results.csv')
 	if os.path.exists('results.csv'):
 		total += test(filecmp.cmp('outfile.csv', 'results.csv'),True,10)
